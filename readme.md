@@ -17,4 +17,4 @@ Tutorial:
 
 	Run setup.py
 	Run scrape.py
-	Enter Model's name (copy their name from the url. fapello.com/model-name/)
+	Enter Model's name (copy their name from the url. fapello.com/{model-name}/)
