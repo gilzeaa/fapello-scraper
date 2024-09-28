@@ -4,8 +4,8 @@ Features:
 
     Downloads images
     Downloads videos
-    Saves images and videos in separate folders
-    Can start scraping from a specific image number
+    Separated folders
+    Resume Scraping by Image number
 
 Prerequisites
 
