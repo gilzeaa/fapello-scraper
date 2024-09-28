@@ -1,4 +1,4 @@
-This program scrapes images and videos from specific model's pages on Fapello.com and saves them to a folder.
+This program scrapes all images and videos from specific model's page on Fapello.com and saves them to a folder.
 
 Features:
 
